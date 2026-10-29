@@ -3,7 +3,7 @@
 Docker stack of the EPFL FSD [Terminus] server (TRMNL e-ink displays) and its
 EWS room-booking companion apps.
 
-Deployed with Ansible by [terminus.ops](https://github.com/dieg0000000/terminus.ops).
+Deployed with Ansible by [terminus.ops](https://github.com/epfl-si/terminus.ops).
 
 ## Content
 
