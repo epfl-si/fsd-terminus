@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY ews-api/package.json ./
 COPY ews-api/.env /app/.env
-COPY .env .env
+COPY .env /.env
 
 RUN npm install
 
